@@ -105,5 +105,5 @@ MIT LICENSE
 ---
 ## NOTE
 **Jika Failed Get Email / Otp Nya Silahkan pakek Vpn Kemudian jalankan Lagi Di Karenakan Limit IP Oleh Penyedia Layanan Email Nya**
-**VPN GRATIS BISA DI MARI[ https://www.urban-vpn.com](Urban Vpn)**
+**Jika Ingin Menggunakan Secara Terus Menerus Tanpa Henti Sebaik Nya Menggunakan Ip Changer [https://github.com/seevik2580/tor-ip-changer](Github_Berikut)**
 **SECARA DEFAULT PROGRAM INI OPEN WEB JADI KALOK GAK MAU OPEN WEB ALIAS JALAN DI TERMINAL AJA HAPUS AJA AWALAN DI  #options.add_argument('--headless') DI MAIN.PY NYA**
