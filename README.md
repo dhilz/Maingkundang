@@ -105,6 +105,6 @@ MIT LICENSE
 ---
 ## NOTE
 **Jika Failed Get Email / Otp Nya Silahkan pakek Vpn Kemudian jalankan Lagi Di Karenakan Limit IP Oleh Penyedia Layanan Email Nya**
-**Jika Ingin Menggunakan Secara Terus Menerus Tanpa Henti Sebaik Nya Menggunakan Ip Changer [https://github.com/seevik2580/tor-ip-changer](Github_Berikut)**
-**Youtube Vidio Untuk Change Ip Otomatis Di Mari Btw Youtube Orang Wkk [https://youtu.be/qFRXqJZrsUM?si=k3S4Iv-n4JQpQ8pd](Youtube)**
+**Jika Ingin Menggunakan Secara Terus Menerus Tanpa Henti Sebaik Nya Menggunakan Ip Changer [Github Orang](https://github.com/seevik2580/tor-ip-changer)**
+**Youtube Vidio Untuk Change Ip Otomatis Di Mari Btw Youtube Orang Wkk [Youtube](https://youtu.be/qFRXqJZrsUM?si=k3S4Iv-n4JQpQ8pd)**
 **SECARA DEFAULT PROGRAM INI OPEN WEB JADI KALOK GAK MAU OPEN WEB ALIAS JALAN DI TERMINAL AJA HAPUS AJA AWALAN DI  #options.add_argument('--headless') DI MAIN.PY NYA**
