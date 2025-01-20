@@ -50,7 +50,6 @@ Script ini dibuat untuk melakukan proses otomatisasi pendaftaran akun Tesnet Sut
    ```bash
    python main.py
    ```
-   (Ganti `script_name.py` dengan nama file script Anda.)
 
 3. Proses akan berjalan secara otomatis, mencakup:
    - Membuat email sementara.
