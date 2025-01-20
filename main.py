@@ -55,7 +55,8 @@ def create_temp_email_with_delay():
 # Setup Selenium WebDriver
 service = Service(ChromeDriverManager().install())
 chrome_options = Options()
-chrome_options.add_argument("--headless")  # Gunakan mode headless jika tidak perlu melihat browser
+#Hapus Tanda # chrome_options.add_argument("--headless") Jika Mau Non Gui / Open Browser
+#chrome_options.add_argument("--headless") 
 chrome_options.add_argument("--disable-gpu")
 chrome_options.add_argument("--log-level=3")
 # Rotasi User-Agent
