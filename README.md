@@ -30,12 +30,12 @@ Script ini dibuat untuk melakukan proses otomatisasi pendaftaran akun Tesnet Sut
 3. **Install dependencies.**
    Jalankan perintah berikut di terminal/command prompt:
    ```bash
-   pip install selenium webdriver-manager fake-useragent beautifulsoup4 temp-mails python-dotenv
+   pip install -r requirements.txt
    ```
 
 4. **Setup environment (opsional).**
    - Buat file `.env` di direktori yang sama dengan script ini.
-   - Tambahkan variabel berikut (ganti dengan nilai Anda sendiri jika perlu):
+   - Tambahkan variabel berikut (ganti dengan nilai Anda sendiri Terutama Di Bagian Refferall):
      ```env
      PASSWORD=Dilz@2408
      REFERRAL_CODE=678a148718fc9
@@ -48,7 +48,7 @@ Script ini dibuat untuk melakukan proses otomatisasi pendaftaran akun Tesnet Sut
 1. Buka terminal/command prompt.
 2. Jalankan script menggunakan perintah:
    ```bash
-   python script_name.py
+   python main.py
    ```
    (Ganti `script_name.py` dengan nama file script Anda.)
 
@@ -106,3 +106,5 @@ MIT LICENSE
 ---
 ## NOTE
 **Jika Failed Get Email / Otp Nya Silahkan pakek Vpn Kemudian jalankan Lagi Di Karenakan Limit IP Oleh Penyedia Layanan Email Nya**
+**VPN GRATIS BISA DI MARI[ https://www.urban-vpn.com](Urban Vpn)**
+**SECARA DEFAULT PROGRAM INI OPEN WEB JADI KALOK GAK MAU OPEN WEB ALIAS JALAN DI TERMINAL AJA HAPUS AJA AWALAN DI  #options.add_argument('--headless') DI MAIN.PY NYA**
