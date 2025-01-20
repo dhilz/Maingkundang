@@ -30,12 +30,14 @@ def extract_otp_from_email(mail_content):
 def handle_popup(driver):
     """Fungsi untuk menangani pop-up jika ada."""
     try:
+        # Tambahkan jeda eksplisit sebelum menunggu popup
+        time.sleep(7)  # Jeda 7 detik untuk memastikan popup muncul
         WebDriverWait(driver, 10).until(
             EC.element_to_be_clickable((By.ID, "btnOkPopOneButtonNonTitle"))
         ).click()
         print("Popup handled successfully.")
     except Exception:
-        print("No popup detected.")
+        print("No popup detected or failed to handle.")
 
 def initialize_driver():
     """Inisialisasi driver Selenium."""
