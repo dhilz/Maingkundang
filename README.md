@@ -2,7 +2,6 @@
 
 ## Deskripsi
 Script ini dibuat untuk melakukan proses otomatisasi pendaftaran akun Tesnet Suttt:
-- Pembuatan email sementara menggunakan `temp-mails`.
 - Ekstraksi OTP dari email yang diterima.
 - Penanganan pop-up secara otomatis.
 - Penanganan error rate limit (HTTP 429).
@@ -104,3 +103,6 @@ Script ini dibuat untuk melakukan proses otomatisasi pendaftaran akun Tesnet Sut
 ## Lisensi
 MIT LICENSE
 
+---
+## NOTE
+**Jika Failed Get Email / Otp Nya Silahkan pakek Vpn Kemudian jalankan Lagi Di Karenakan Limit IP Oleh Penyedia Layanan Email Nya**
