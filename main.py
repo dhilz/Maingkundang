@@ -42,7 +42,7 @@ def initialize_driver():
     service = Service(ChromeDriverManager().install())
     options = webdriver.ChromeOptions()
     #options.add_argument("--headless")  # Hapus baris ini untuk GUI mode
-    options.add_argument("--disable-gpu")
+    #options.add_argument("--disable-gpu")
     options.add_argument("--no-sandbox")
     return webdriver.Chrome(service=service, options=options)
 
